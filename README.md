@@ -1,5 +1,5 @@
 # Chrome-Extension-FRED
-Facial Recognition of Emotion Detector
+Facial Recognition of Emotion Detector (doesn't actually work)
 
 * basically, go into chrome
 
